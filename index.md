@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Coleman Gliddon's personal site
 ---
-
+lorem ipsum
